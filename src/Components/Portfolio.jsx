@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Cancer Detection: Detecting cancer using ultrasound by Deep Learning Techniques",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The model we develop is designed to handle images from various sources and classify them according to their clinical significance. The first model aims to distinguish between ultrasound images and non-ultrasound images, thereby filtering out irrelevant images and focusing on those that may indicate the presence of cancer. The second model classifies images based on their relevance to breast and gallbladder cancer, further narrowing down the scope of analysis.",
+    url: "https://github.com/Siddhartha127/Cancer_Detection_Using_Ultrasounds",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Spam SMS detection",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A Spam SMS Detection project involves creating a system to identify and filter out unsolicited or harmful text messages. Heres a brief description:",
+    url: "https://github.com/Siddhartha127/ML-Projects/blob/main/Spam_SMS.ipynb",
   },
   {
-    title: "My Resume Site",
+    title: "Todo List using React",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created a Todo List using React.js.",
+    url: "https://github.com/Siddhartha127/ToDo",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "React Projects",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Project for learning and practicing React Js",
+    url: "https://github.com/Siddhartha127/React_Projects",
   },
 ];
 
